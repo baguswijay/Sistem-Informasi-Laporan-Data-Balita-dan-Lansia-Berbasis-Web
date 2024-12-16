@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+.filament-app {
+    background-color: #f50707; /* Warna latar belakang abu-abu terang */
+}
+
+/* .fi-sidebar {
+    @apply bg-orange-500;
+} */
